@@ -1,3 +1,4 @@
+EDIT
 <?php
 phpinfo();
 ?>
