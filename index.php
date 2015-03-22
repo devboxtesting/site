@@ -1,5 +1,4 @@
-EDIT 1
-EDIT 2
+#test commit
 <?php
 phpinfo();
 ?>
