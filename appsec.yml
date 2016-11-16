@@ -3,3 +3,9 @@ os: linux
 files:
   - source: /
     destination: /var/www/html
+hooks:
+  BeforeInstall:
+    echo "b4"
+  AfterInstall:
+  ApplicationStart:
+  ApplicationStop:
